@@ -1,0 +1,18 @@
+.sub-tab ul li::before{
+    background-color: #2111a7;
+}
+.about .head .title::after, .services .head .title::after, .content .head .title::after{
+    background-color: #2111a7;
+}
+.about .head .title h3, .services .head .title h3, .content .head .title h3{
+    color: #2111a7;
+}
+.about .head .sumary, .services .head .sumary, .content .head .sumary{
+    color: white;
+}
+.about-content .title{
+    color: #2111a7;
+}
+.sumary,.text_lss1,.text_lss{
+    color: white;   
+}

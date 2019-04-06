@@ -126,6 +126,7 @@ main:not(.page-project){
 }
 main.page-main{
     overflow: initial;
+    background: #010101eb;
 }
 .moretext {
   max-height: 9em;
